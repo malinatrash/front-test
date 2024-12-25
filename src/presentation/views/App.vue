@@ -1,8 +1,10 @@
 <script setup lang="ts">
+import AccountList from '@/presentation/components/AccountList.vue'
 </script>
 
 <template>
   <main>
+    <AccountList />
   </main>
 </template>
 
